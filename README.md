@@ -1,1 +1,1 @@
-In code we seek confidence though it may be shattered by pesty bugs
+In code we find confidence, and bugs.
